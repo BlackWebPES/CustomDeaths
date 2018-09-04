@@ -25,7 +25,7 @@ use pocketmine\event\player\PlayerDeathEvent;
 		public function onEnable(){
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 		$this->saveDefaultConfig();
-		$this->getLogger()->info("Version: 1.0.0 for API: 3.0.0");
+		$this->getLogger()->info("Version: 1.0.0 For API: 3.0.0");
 		}
 
 		public function onDeath(PlayerDeathEvent $event){
