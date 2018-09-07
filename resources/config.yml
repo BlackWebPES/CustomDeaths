@@ -2,5 +2,5 @@
 # {player} {killer} {line} {weapon}
 # above are tags you can use in the death message
 # edit this
-message: "§5{player} §5killed §5by §5{killer} §5using §5{weapon}"
+message: "§c{player} §ckilled §cby §c{killer} §cusing §c{weapon}§c"
 ...
